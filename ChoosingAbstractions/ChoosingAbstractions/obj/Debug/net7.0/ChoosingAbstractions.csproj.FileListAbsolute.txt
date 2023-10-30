@@ -1,0 +1,14 @@
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\bin\Debug\net7.0\ChoosingAbstractions.exe
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\bin\Debug\net7.0\ChoosingAbstractions.deps.json
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\bin\Debug\net7.0\ChoosingAbstractions.runtimeconfig.json
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\bin\Debug\net7.0\ChoosingAbstractions.dll
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\bin\Debug\net7.0\ChoosingAbstractions.pdb
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\ChoosingAbstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\ChoosingAbstractions.AssemblyInfoInputs.cache
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\ChoosingAbstractions.AssemblyInfo.cs
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\ChoosingAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\ChoosingAbstractions.dll
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\refint\ChoosingAbstractions.dll
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\ChoosingAbstractions.pdb
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\ChoosingAbstractions.genruntimeconfig.cache
+C:\Users\Ahmet Koçak\source\Clean-Code\ChoosingAbstractions\ChoosingAbstractions\obj\Debug\net7.0\ref\ChoosingAbstractions.dll
