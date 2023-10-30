@@ -1,0 +1,14 @@
+D:\Clean-Code-Lessons\Solid\bin\Debug\net7.0\Solid.exe
+D:\Clean-Code-Lessons\Solid\bin\Debug\net7.0\Solid.deps.json
+D:\Clean-Code-Lessons\Solid\bin\Debug\net7.0\Solid.runtimeconfig.json
+D:\Clean-Code-Lessons\Solid\bin\Debug\net7.0\Solid.dll
+D:\Clean-Code-Lessons\Solid\bin\Debug\net7.0\Solid.pdb
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\Solid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\Solid.AssemblyInfoInputs.cache
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\Solid.AssemblyInfo.cs
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\Solid.csproj.CoreCompileInputs.cache
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\Solid.dll
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\refint\Solid.dll
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\Solid.pdb
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\Solid.genruntimeconfig.cache
+D:\Clean-Code-Lessons\Solid\obj\Debug\net7.0\ref\Solid.dll
