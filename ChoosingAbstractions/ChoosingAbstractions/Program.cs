@@ -4,7 +4,7 @@
 using ChoosingAbstractions;
 
 var sqlDb = new SqlServerDb();
-sqlDb.ExecuteSql("");
+sqlDb.ExecuteSql("");f
 
 //var baseDb = new BaseDb();
 
